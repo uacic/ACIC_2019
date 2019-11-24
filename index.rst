@@ -18,15 +18,15 @@ List of all the tools/technologies we covered in 2019 fall semester
 
 Sateesh - created RTD template
 
-Galen - docker
+Galen - 
 
-Erika - UNIX, Git & Github, IRods; Docker
+Erika - 
 
 Naomi -
 
 John -
 
-Nasser - 
+Nasser - singularty
 
 Andy -
 

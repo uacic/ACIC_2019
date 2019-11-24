@@ -80,7 +80,7 @@ Tools & Technologies for ACIC
 UNIX
 ~~~~
 
-<unix logo>
+|UNIX logo|_
 
 Description
 Intro tutorials
@@ -153,6 +153,12 @@ Additional information, help
     :width: 500
     :height: 100
 .. _CyVerse logo: http://learning.cyverse.org/
+
+.. |UNIX logo| image:: ./img/unix_logo.png
+    :width: 500
+    :height: 100
+.. _CyVerse logo: http://learning.cyverse.org/
+
 .. |Home_Icon| image:: ./img/homeicon.png
     :width: 25
     :height: 25

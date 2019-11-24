@@ -20,9 +20,9 @@ Sateesh - created RTD template
 
 Galen - 
 
-Erika - 
+Erika - UNIX, IRODS, Docker, Git & Github
 
-Naomi - CCTools/Makeflow & Workqueue
+Naomi -
 
 John -
 

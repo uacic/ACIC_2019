@@ -20,7 +20,7 @@ Sateesh - created RTD template
 
 Galen - 
 
-Erika - 
+Erika - UNIX, IRODS, Docker, Git & Github
 
 Naomi -
 

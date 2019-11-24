@@ -10,15 +10,7 @@ Quick start of RNA-seq analysis in DE
 Goal
 ----
 
-Perform RNAseq differential expression analysis using Read Mapping and Transcript Assembly (RMTA) and Rstudio-DESEq2 apps 
-
-
-
-- RMTA is a workflow that can rapidly process raw RNA-seq illumina data by mapping reads to a genome (HISAT2), assemble transcripts using Stringtie and count reads using featureCounts.
-
-- DESeq2 is a R package to analyze count tables for differentially expressed genes, visualize the results, add extra gene annotations, and cluster samples and genes using transformed counts
-
-In this quick start, we will show you how to launch RMTA app and Rstudio-DESeq2 VICE app in DE
+List of all the tools/technologies we covered in 2019 fall semester
 
 ----
 
@@ -79,17 +71,7 @@ Right-Click the below button and open in a new tab for quick launch of RMTA-2.6.
 	
 	|rmta-2.6.1|_
 
-1. Login to the |discovery_enviornment|.
-
-2. CLick on "Apps" tab in the Discovery Enviornment and search for "RMTA v2.6.1".
-
-3. Click on the three dots button near the top-right corner of the app and click on "Quick Launch".
-
-|RMTA_quick_launch_1|_
-
-4. Click on the "RNAseq_Webinar_RMTA" quick launch and click on the play button to launch.
-
-|RMTA_quick_launch_3|_
+1. 
 
 5. Under “Analysis Name” leave the defaults or make any desired notes.
 

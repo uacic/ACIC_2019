@@ -18,7 +18,7 @@ List of all the tools/technologies we covered in 2019 fall semester
 
 Sateesh - created RTD template
 Erika - 
-Naomi -
+Naomi - Docker
 John -
 Nasser - 
 Andy -

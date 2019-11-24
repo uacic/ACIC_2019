@@ -154,7 +154,7 @@ Additional information, help
     :height: 100
 .. _CyVerse logo: http://learning.cyverse.org/
 
-.. |UNIX logo| image:: ./img/unix_logo.jpeg
+.. |UNIX logo| image:: ./img/minion.png
     :width: 500
     :height: 100
 .. _CyVerse logo: http://learning.cyverse.org/

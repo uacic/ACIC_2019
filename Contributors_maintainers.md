@@ -10,8 +10,8 @@
 
 |Name|Contact Info|Institution|Notes|
 |----|------------|-----------|-----|
-|Sateesh Peri|sateeshp@email.arizona.edu|University of Arizona||
-|||||
+|Sateesh Peri|sateeshp@email.arizona.edu|University of Arizona|RTD|
+|Naomi Yescas||University of Arizona|CCTools - Makeflow, WorkQueue|
 |||||
 |||||
 |||||

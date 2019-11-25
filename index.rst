@@ -22,7 +22,7 @@ Galen - Docker
 
 Erika - UNIX, IRODS, Docker, Git & Github
 
-Naomi -
+Naomi - CCTools/Makeflow & Workqueue
 
 John -
 
